@@ -1,0 +1,31 @@
+h1 {
+    color: black;
+    font-weight: 900;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
